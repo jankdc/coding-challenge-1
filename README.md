@@ -59,7 +59,7 @@ LLFFFLFLFL
 
 - Node.js >= v8.0.0
 
-## Runnning
+## Running
 
 ```
 npm run demo
