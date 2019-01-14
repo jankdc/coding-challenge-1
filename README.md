@@ -52,3 +52,21 @@ LLFFFLFLFL
 
 ## Finally
 **Tell us when you have completed the challenge**
+
+# Usage
+
+## Requirements
+
+- Node.js >= v8.0.0
+
+## Runnning
+
+```
+npm run demo
+```
+
+or you could use your own file:
+
+```
+node index.js data/your-file.txt
+```
