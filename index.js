@@ -37,6 +37,10 @@ function main () {
 
     index += 1
   })
+
+  lineStream.on('close', () => {
+    simulator.log()
+  })
 }
 
 main()
