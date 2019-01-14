@@ -1,0 +1,11 @@
+{
+  "name": "ship-simulator",
+  "version": "1.0.0",
+  "description": "An interview coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node index.js data/input.txt"
+  },
+  "author": "Jan Karlo Dela Cruz",
+  "license": "MIT"
+}
