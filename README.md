@@ -1,5 +1,23 @@
 # StratumFive - Coding Challenge
 
+## Usage
+
+### Requirements
+
+- Node.js >= v8.0.0
+
+### Running
+
+```
+npm run demo
+```
+
+or you could use your own file:
+
+```
+node index.js data/your-file.txt
+```
+
 ## Introduction
 Welcome to the StratumFive Coding Challenge. Please take ten minutes to carefully read through this document before starting the challenge.
 * We expect you to spend in the region of a few hours on this challenge. If you do not complete it then please still submit your work.
@@ -52,21 +70,3 @@ LLFFFLFLFL
 
 ## Finally
 **Tell us when you have completed the challenge**
-
-# Usage
-
-## Requirements
-
-- Node.js >= v8.0.0
-
-## Running
-
-```
-npm run demo
-```
-
-or you could use your own file:
-
-```
-node index.js data/your-file.txt
-```
